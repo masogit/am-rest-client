@@ -2,6 +2,11 @@
 
 It's a simple js am-rest-client
 
+### Require
+
+- Nodejs
+- `npm install`
+
 ### command for test
 
 ```
