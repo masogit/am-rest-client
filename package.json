@@ -2,7 +2,7 @@
   "name": "am-rest-client",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./src/amRestClient.js",
   "scripts": {
     "test": "node test schemaOne"
   },
