@@ -1,0 +1,16 @@
+{
+  "name": "am-rest-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "amRestClient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maso",
+  "license": "ISC",
+  "dependencies": {
+    "babel-polyfill": "^6.16.0",
+    "babel-register": "^6.18.0",
+    "node-rest-client": "^2.0.1"
+  }
+}
